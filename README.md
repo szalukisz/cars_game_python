@@ -1,5 +1,5 @@
 # About
-It's car racing game created by me and 2 of my friends. To achive that we used python and mainly library pyGame.\
+It's car racing game created by me and 2 of my friends. To achieve that we used python and mainly library pyGame.\
 Game includes:
 - singleplayer mode
 - multiplayer mode(server/client)
